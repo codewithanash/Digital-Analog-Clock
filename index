@@ -1,0 +1,22 @@
+    <!DOCTYPE html>
+<!--coding with lucifer the devil !! -->
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Analog CLock</title>
+</head>
+
+<body>
+
+    <second class="clock">
+        <div class="seconds"></div>
+        <div class="minutes"></div>
+        <div class="minute">44</div>
+        <div class="hour"></div>
+    </second>
+
+
+</body>
+
+</html>
